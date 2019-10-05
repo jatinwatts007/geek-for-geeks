@@ -29,6 +29,6 @@ int main()
          delete [] arr;
          delete [] a;
      }
-	//code
+	
 	return 0;
 }
