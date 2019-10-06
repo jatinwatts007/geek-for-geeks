@@ -26,6 +26,5 @@ int main()
          }
          cout<<l<<endl;
      }
-	//code
 	return 0;
 }
