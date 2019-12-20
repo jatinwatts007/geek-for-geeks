@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 long long int func(int* car,int* fine,int n,int d){
     long long int sum=0;
