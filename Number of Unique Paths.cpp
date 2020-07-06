@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
+main()
  {
 	int t;
 	cin>>t;
@@ -30,5 +30,4 @@ int main()
 	    delete[] arr;
 	    
 	}
-	return 0;
 }
